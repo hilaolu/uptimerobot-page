@@ -9,8 +9,8 @@ uptimerobot:
   statuses: "2-9"
 
 website:
-  title: "Uptime Robot Status"
-  copyright: "Uptime Robot"
+  title: "Services Status"
+  copyright: ""
  # links:
 #    - name: Home
 #      href: https://uptimerobot.com
